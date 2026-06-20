@@ -243,7 +243,7 @@ Unlike traditional API discovery tools that focus on just one technique (like fu
 
 ```bash
 # Clone the repository
-git clone https://github.com/spidey/meltor.git
+git clone https://github.com/clayhackergroup/meltor.git
 cd meltor
 
 # Install Python dependencies
@@ -628,7 +628,7 @@ MELTOR is an open-source project and **we welcome contributors of all skill leve
 ### Development Setup
 
 ```bash
-git clone https://github.com/spidey/meltor.git
+git clone https://github.com/clayhackergroup/meltor.git
 cd meltor
 pip install -r requirements.txt
 npm install
