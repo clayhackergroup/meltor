@@ -1,0 +1,10 @@
+{
+  "name": "meltor-js-extractor",
+  "version": "1.0.0",
+  "description": "MELTOR JS API endpoint extractor - parses JavaScript to find API endpoints",
+  "main": "extractor.js",
+  "dependencies": {
+    "acorn": "^8.11.0",
+    "acorn-walk": "^8.3.0"
+  }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+node_modules/
+*.pyc
+.DS_Store
+reddit_report.json
+reddit_test.json

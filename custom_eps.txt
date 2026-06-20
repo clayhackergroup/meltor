@@ -1,0 +1,7 @@
+# My custom endpoints
+/api/custom/v1
+/api/private/endpoint
+/internal/health
+/admin/panel
+/api/v1/my-resource
+/api/v2/my-resource
